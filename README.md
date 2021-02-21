@@ -1,12 +1,13 @@
-### Hi 👋. I'm, Anjar
+### Hi 👋, I'm Anjar.
 
-<br />
+<p>
 <a href="https://twitter.com/befrajna">
   <img align="left" alt="Anjar Febrianto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anjar-febrianto/">
   <img align="left" alt="Anjar's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</p>
 
 <p>Software Engineer at <a href="https://www.mbizmarket/co/id/">Mbizmarket</p>
 <br />
