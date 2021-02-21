@@ -1,4 +1,5 @@
 ### Hi 👋. I'm, Anjar
+
 <a href="https://twitter.com/befrajna">
   <img align="left" alt="Anjar Febrianto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -8,7 +9,7 @@
 
 <br />
 
-<p float="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjar&layout=compact&count=8&cache_seconds=86400&theme=vision-friendly-dark&hide=html,css" width="45%">
 </p>
