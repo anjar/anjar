@@ -12,13 +12,13 @@
 
 
 
-<a href="https://githb.com/anjar">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark">
-</a>
+</p>
 
-<a href="https://githb.com/anjar">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjar&layout=compact&count=8&cache_seconds=86400&theme=vision-friendly-dark&hide=html,css">
-</a>
+</p>
 
 
 <!--
