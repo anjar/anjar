@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Anjar.
 
-- 🔭 I’m currently working on ...
-- 
+ 🔭 I’m currently working as Software Engineer at <a href="https://www.mbizmarket/co/id/">Mbizmarket</a>
+
+<br />
 <p>
 <a href="https://twitter.com/befrajna">
   <img align="left" alt="Anjar Febrianto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -11,7 +12,7 @@
 </a>
 </p>
 
-<p>Software Engineer at <a href="https://www.mbizmarket/co/id/">Mbizmarket</p>
+
 <br />
 
 
