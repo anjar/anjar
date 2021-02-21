@@ -1,4 +1,11 @@
 ### Hi 👋. I'm, Anjar
+<a href="https://twitter.com/befrajna">
+  <img align="left" alt="Anjar Febrianto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anjar-febrianto/">
+  <img align="left" alt="Anjar's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark" width="50%">
