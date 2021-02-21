@@ -1,7 +1,5 @@
 ### Hi 👋. I'm, Anjar
 
-- 🌱 I’m currently learning Frontend Development
-
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjar&layout=compact&count=8&cache_seconds=86400&theme=vision-friendly-dark&hide=html,css" width="45%">
@@ -13,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
