@@ -9,10 +9,14 @@
 
 <br />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjar&layout=compact&count=8&cache_seconds=86400&theme=vision-friendly-dark&hide=html,css" width="45%">
-</p>
+<a href="https://githb.com/anjar">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark">
+</a>
+
+<a href="https://githb.com/anjar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjar&layout=compact&count=8&cache_seconds=86400&theme=vision-friendly-dark&hide=html,css">
+</a>
+
 
 <!--
 **anjar/anjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
