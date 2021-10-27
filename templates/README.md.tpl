@@ -1,8 +1,8 @@
 ### Hi 👋.
 
- 🔭 I’m [Anjar Febrianto](https://www.anjar.fun). currently working as Software Engineer at [Mbizmarket](https://www.mbizmarket.co.id). You can reach me here: 
+ 🔭 I’m [Anjar Febrianto](https://www.anjar.fun). currently working as Software Engineer at [Mbizmarket](https://www.mbizmarket.co.id). 
 
-[<img  alt="Anjar Febrianto | Twitter"  width="22px"  src="https://raw.githubusercontent.com/anjar/anjar/master/assets/twitter.svg" />](https://twitter.com/befrajna) [<img  alt="Anjar Febrianto | Linkedin"  width="22px"  src="https://raw.githubusercontent.com/anjar/anjar/master/assets/linkedin.svg" />](https://www.linkedin.com/in/anjar-febrianto/)
+[]() 
 
 ---
 
@@ -20,6 +20,14 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+
+---
+#### 📫 How to reach me
+[](https://www.linkedin.com/in/anjar-febrianto/)
+
+- <img  alt="Anjar Febrianto | Twitter"  width="16px"  src="https://raw.githubusercontent.com/anjar/anjar/master/assets/twitter.svg" />: [@befrajna](https://twitter.com/befrajna)
+- <img  alt="Anjar Febrianto | Linkedin"  width="16px" src="https://raw.githubusercontent.com/anjar/anjar/master/assets/linkedin.svg" /> : [Anjar Febrianto](https://www.linkedin.com/in/anjar-febrianto/)
+- <img  alt="Anjar Febrianto | Email"  width="16px" src="https://raw.githubusercontent.com/anjar/anjar/master/assets/email.svg" />: [anxfeb@gmail.com](mailto://anxfeb@gmail.com)
 
 <!--
 **anjar/anjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
