@@ -27,7 +27,7 @@
 
 - <img  alt="Anjar Febrianto | Twitter"  width="16px"  src="https://raw.githubusercontent.com/anjar/anjar/master/assets/twitter.svg" />: [@befrajna](https://twitter.com/befrajna)
 - <img  alt="Anjar Febrianto | Linkedin"  width="16px" src="https://raw.githubusercontent.com/anjar/anjar/master/assets/linkedin.svg" /> : [Anjar Febrianto](https://www.linkedin.com/in/anjar-febrianto/)
-- <img  alt="Anjar Febrianto | Email"  width="16px" src="https://raw.githubusercontent.com/anjar/anjar/master/assets/email.svg" />: [anxfeb@gmail.com](mailto://anxfeb@gmail.com)
+- <img  alt="Anjar Febrianto | Email"  width="16px" src="https://raw.githubusercontent.com/anjar/anjar/master/assets/email-icon.svg" />: [anxfeb@gmail.com](mailto://anxfeb@gmail.com)
 
 <!--
 **anjar/anjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
