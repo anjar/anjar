@@ -1,43 +1,27 @@
-### Hi 👋, I'm Anjar.
+### Hi 👋.
 
- 🔭 I’m currently working as Software Engineer at <a href="https://www.mbizmarket.co.id/">Mbizmarket</a>
+ 🔭 I’m [Anjar Febrianto](https://www.anjar.fun). currently working as Software Engineer at [Mbizmarket](https://www.mbizmarket.co.id). You can reach me here: 
 
+[<img  alt="Anjar Febrianto | Twitter"  width="22px"  src="https://raw.githubusercontent.com/anjar/anjar/master/assets/twitter.svg" />](https://twitter.com/befrajna) [<img  alt="Anjar Febrianto | Linkedin"  width="22px"  src="https://raw.githubusercontent.com/anjar/anjar/master/assets/linkedin.svg" />](https://www.linkedin.com/in/anjar-febrianto/)
 
-<br />
-<p>
-<a href="https://twitter.com/befrajna">
-  <img align="left" alt="Anjar Febrianto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anjar-febrianto/">
-  <img align="left" alt="Anjar's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</p>
+---
 
 
-<br />
+#### 📈 My GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark&hide_title=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjar&layout=compact&count=8&cache_seconds=86400&theme=vision-friendly-dark&hide=html,css">
+
+
+---
+
+#### 👷 Checkout My Latest Project on Github
+
+- [anjar/docker-php-code-checker](https://github.com/anjar/docker-php-code-checker) - Dockerized PHP Code checker tools (1 day ago)
+- [anjar/ratib-app-react](https://github.com/anjar/ratib-app-react) - Ratib Website with ReactJS (1 week ago)
+- [anjar/latihan-nextjs](https://github.com/anjar/latihan-nextjs) - latnextjs (2 months ago)
+- [anjar/podium-example](https://github.com/anjar/podium-example) - Podium Example (11 months ago)
+- [namilabs/supernova](https://github.com/namilabs/supernova) - NamiLabs Supernova Project Code (11 months ago)
 
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anjar&show_icons=true&count_private=true&hide=contribs&cache_seconds=86400&theme=vision-friendly-dark">
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjar&layout=compact&count=8&cache_seconds=86400&theme=vision-friendly-dark&hide=html,css">
-</p>
-
-
-<!--
-**anjar/anjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
