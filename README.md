@@ -17,6 +17,7 @@
 
 #### 👷 Checkout My Latest Project on Github
 
+- [anjar/nextjs-tailwind-starter](https://github.com/anjar/nextjs-tailwind-starter) - Next.JS with Tailwindcss starter-pack (today)
 - [anjar/ratib-app-web](https://github.com/anjar/ratib-app-web) - Ratib Website with ReactJS (2 days ago)
 - [anjar/dotfiles](https://github.com/anjar/dotfiles) - My Dot Files (3 weeks ago)
 - [anjar/anjar.my.id](https://github.com/anjar/anjar.my.id) - My Site, with NextJS (3 months ago)
