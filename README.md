@@ -17,9 +17,9 @@
 
 #### 👷 Checkout My Latest Project on Github
 
-- [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (today)
-- [anjar/nextjs-tailwind-starter](https://github.com/anjar/nextjs-tailwind-starter) - Next.JS with Tailwindcss starter-pack (2 days ago)
-- [anjar/anjar.my.id](https://github.com/anjar/anjar.my.id) - My personal site, with Next.JS (4 days ago)
+- [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (1 day ago)
+- [anjar/nextjs-tailwind-starter](https://github.com/anjar/nextjs-tailwind-starter) - Next.JS with Tailwindcss starter-pack (3 days ago)
+- [anjar/anjar.my.id](https://github.com/anjar/anjar.my.id) - My personal site, with Next.JS (5 days ago)
 - [anjar/ratib-app-web](https://github.com/anjar/ratib-app-web) - Ratib Website with ReactJS (1 week ago)
 - [anjar/dotfiles](https://github.com/anjar/dotfiles) - My Dot Files (4 weeks ago)
 - [anjar/docker-php-code-checker](https://github.com/anjar/docker-php-code-checker) - Dockerized PHP Code checker tools (3 months ago)
