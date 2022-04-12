@@ -20,7 +20,7 @@
 - [anjar/nextjs-tailwind-starter](https://github.com/anjar/nextjs-tailwind-starter) - Next.JS with Tailwindcss starter-pack (2 weeks ago)
 - [anjar/github-docker-do-example](https://github.com/anjar/github-docker-do-example) - Example next.js with docker and Digital Ocean (1 month ago)
 - [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (1 month ago)
-- [anjar/anjar.my.id](https://github.com/anjar/anjar.my.id) - My personal site, with Next.JS (1 month ago)
+- [anjar/anjar.my.id](https://github.com/anjar/anjar.my.id) - My personal site, with Next.JS (2 months ago)
 - [anjar/ratib-app-web](https://github.com/anjar/ratib-app-web) - Ratib Website with ReactJS (2 months ago)
 - [anjar/dotfiles](https://github.com/anjar/dotfiles) - My Dot Files (2 months ago)
 - [anjar/docker-php-code-checker](https://github.com/anjar/docker-php-code-checker) - Dockerized PHP Code checker tools (5 months ago)
