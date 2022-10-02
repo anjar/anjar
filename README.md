@@ -17,8 +17,8 @@
 
 #### 👷 Checkout My Latest Project on Github
 
-- [anjar/anjar.my.id](https://github.com/anjar/anjar.my.id) - My personal site, with Next.JS (today)
-- [anjar/github-docker-do-example](https://github.com/anjar/github-docker-do-example) - Example next.js with docker and Digital Ocean (1 day ago)
+- [anjar/anjar.my.id](https://github.com/anjar/anjar.my.id) - My personal site, with Next.JS (1 day ago)
+- [anjar/github-docker-do-example](https://github.com/anjar/github-docker-do-example) - Example next.js with docker and Digital Ocean (2 days ago)
 - [anjar/nextjs-tailwind-starter](https://github.com/anjar/nextjs-tailwind-starter) - Next.JS with Tailwindcss starter-pack (6 months ago)
 - [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (7 months ago)
 - [anjar/ratib-app-web](https://github.com/anjar/ratib-app-web) - Ratib Website with ReactJS (7 months ago)
