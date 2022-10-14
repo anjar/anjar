@@ -22,7 +22,7 @@
 - [anjar/github-docker-do-example](https://github.com/anjar/github-docker-do-example) - Example next.js with docker and Digital Ocean (2 weeks ago)
 - [anjar/nextjs-tailwind-starter](https://github.com/anjar/nextjs-tailwind-starter) - Next.JS with Tailwindcss starter-pack (6 months ago)
 - [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (8 months ago)
-- [anjar/ratib-app-web](https://github.com/anjar/ratib-app-web) - Ratib Website with ReactJS (8 months ago)
+- [rismanuda/ratib-app-web](https://github.com/rismanuda/ratib-app-web) - Ratib Website with ReactJS (8 months ago)
 - [anjar/dotfiles](https://github.com/anjar/dotfiles) - My Dot Files (8 months ago)
 - [anjar/jekyll-blog](https://github.com/anjar/jekyll-blog) - My Site with jekyll (11 months ago)
 - [anjar/docker-phalconphp](https://github.com/anjar/docker-phalconphp) - Docker PhalconPHP (11 months ago)
