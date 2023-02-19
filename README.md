@@ -22,7 +22,6 @@
 - [anjar/docker-php-code-checker](https://github.com/anjar/docker-php-code-checker) - Dockerized PHP Code checker tools (4 months ago)
 - [anjar/github-docker-do-example](https://github.com/anjar/github-docker-do-example) - Example next.js with docker and Digital Ocean (4 months ago)
 - [anjar/nextjs-tailwind-starter](https://github.com/anjar/nextjs-tailwind-starter) - Next.JS with Tailwindcss starter-pack (10 months ago)
-- [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (1 year ago)
 
 
 ---
