@@ -17,7 +17,7 @@
 
 #### 👷 Checkout My Latest Project on Github
 
-- [anjar/mocky](https://github.com/anjar/mocky) - Simple API mocking solution (1 day ago)
+- [anjar/mocky](https://github.com/anjar/mocky) - Simple API mocking solution (2 days ago)
 - [mataharibiz/login-button-mbizmarket-js](https://github.com/mataharibiz/login-button-mbizmarket-js) - Login With Mbizmarket Button (2 months ago)
 - [anjar/ratib-app-web](https://github.com/anjar/ratib-app-web) - Ratib Website with ReactJS (3 months ago)
 
