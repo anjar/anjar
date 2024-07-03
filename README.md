@@ -17,7 +17,7 @@
 
 #### 👷 Checkout My Latest Project on Github
 
-- [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (today)
+- [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (1 day ago)
 - [anjar/dotfiles](https://github.com/anjar/dotfiles) - My Dot Files (3 months ago)
 - [anjar/mocky](https://github.com/anjar/mocky) - Simple API mocking solution (5 months ago)
 - [mataharibiz/login-button-mbizmarket-js](https://github.com/mataharibiz/login-button-mbizmarket-js) - Login With Mbizmarket Button (7 months ago)
