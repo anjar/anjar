@@ -17,7 +17,7 @@
 
 #### 👷 Checkout My Latest Project on Github
 
-- [anjar/docker-php-linter](https://github.com/anjar/docker-php-linter) - Dockerized PHP Code checker tools (today)
+- [anjar/docker-php-linter](https://github.com/anjar/docker-php-linter) - Dockerized PHP Code checker tools (1 day ago)
 - [anjar/awesome-api](https://github.com/anjar/awesome-api) - Awesome API List (1 month ago)
 - [anjar/dotfiles](https://github.com/anjar/dotfiles) - My Dot Files (5 months ago)
 - [anjar/mocky](https://github.com/anjar/mocky) - Simple API mocking solution (7 months ago)
